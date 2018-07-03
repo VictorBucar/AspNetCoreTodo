@@ -1,0 +1,41 @@
+﻿@model AspNetCoreTodo.ViewModels.ManageUsersViewModel.ManageUsersViewModel
+
+@{
+    ViewData["Title"] = "Manage Users";
+}
+<p class="text-danger">@ViewData["ErrorMessage"]</p>
+<h2>@ViewData["Title"]</h2>
+<h3>Administrators</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Email</td>
+        </tr>
+    </thead>
+    @foreach (var user in Model.Administrators)
+    {
+        <tr>
+            <td>@user.Id</td>
+            <td>@user.Email</td>
+        </tr>
+    }
+</table>
+<h3>Everyone</h3>
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Email</td>
+        </tr>
+    </thead>
+    @foreach (var user in Model.Everyone)
+    {
+        <tr>
+            <td>@user.Id</td>
+            <td>@user.Email</td>
+            <td><a asp-action="Delete" asp-route-id="@user.Id">Delete</a></td>
+        </tr>
+    }
+</table>
+
