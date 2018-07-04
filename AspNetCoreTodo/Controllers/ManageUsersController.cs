@@ -57,6 +57,7 @@ namespace AspNetCoreTodo.Controllers
 
             return View(user);
         }
+
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(string id)

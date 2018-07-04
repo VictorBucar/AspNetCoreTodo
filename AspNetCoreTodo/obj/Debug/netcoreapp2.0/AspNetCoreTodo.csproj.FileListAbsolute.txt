@@ -1,0 +1,24 @@
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\victor.freitas\Documents\Visual Studio 2017\Projects\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.deps.json
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.json
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.runtimeconfig.dev.json
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\bin\Debug\netcoreapp2.0\AspNetCoreTodo.pdb
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csprojAssemblyReference.cache
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.csproj.CoreCompileInputs.cache
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfoInputs.cache
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.AssemblyInfo.cs
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.dll
+C:\Users\victor.freitas\Documents\AspNetCoreTodo\AspNetCoreTodo\obj\Debug\netcoreapp2.0\AspNetCoreTodo.pdb

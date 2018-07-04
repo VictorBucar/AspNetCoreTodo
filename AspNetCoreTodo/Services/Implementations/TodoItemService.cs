@@ -41,14 +41,27 @@ namespace AspNetCoreTodo.Services.Implementations
 
         public async Task<bool> AddItemAsync(TodoItem newItem, ApplicationUser user)
         {
-            newItem.Id = Guid.NewGuid();
-            newItem.IsDone = false;
-            newItem.UserId = user.Id;
-            //newItem.DueAt = DateTimeOffset.Now.AddDays(10);
+            int saveResult = 0;
+            //using (var transaction = _context.Database.BeginTransaction())
+            //{
+            //    try
+            //    {
+                    newItem.Id = Guid.NewGuid();
+                    newItem.IsDone = false;
+                    newItem.UserId = user.Id;
+                    //newItem.DueAt = DateTimeOffset.Now.AddDays(10);
 
-            _context.Items.Add(newItem);
+                    _context.Items.Add(newItem);
 
-            var saveResult = await _context.SaveChangesAsync();
+                    saveResult = await _context.SaveChangesAsync();
+                    //transaction.Commit();
+
+            //    }
+            //    catch (Exception)
+            //    {
+            //        return saveResult == 1;
+            //    }
+            //}
 
             return saveResult == 1;
         }
